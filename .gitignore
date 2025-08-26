@@ -4,6 +4,9 @@
 # Dépendances
 node_modules/
 
+
+.gitignore
+
 # Logs
 logs/
 *.log
